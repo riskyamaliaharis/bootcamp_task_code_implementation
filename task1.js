@@ -1,6 +1,6 @@
-teks = 'Malam'
+let teks = 'Malam'
 teks = teks.toLowerCase()
-hasil =''
+let hasil =''
 
 if (typeof teks=='string'){
     for (let x=teks.length-1; x>=0;x--){
