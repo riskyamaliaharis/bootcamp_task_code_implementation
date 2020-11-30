@@ -1,4 +1,4 @@
-teks = 'Saya belajar Javascript'
+let teks = 'Saya belajar Javascript'
 let kata = teks.split(' ')
 let hasil = []
 
